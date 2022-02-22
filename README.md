@@ -7,7 +7,7 @@ Description of the task:
 Ask input from the user for either “Long” and “Short” (all cases of letter) for “n” times (user’s choice), and then display the number of times the user entered Long or Short.
 
 Eg. Please enter the number of trades: 5
-      Long
+      Long 
       Short
       Long
       Short
